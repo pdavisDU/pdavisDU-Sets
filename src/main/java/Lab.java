@@ -6,8 +6,7 @@ import java.util.Set;
  *
  * Sets are very efficient for storing items that should be unique.
  *
- * You can read about HashSet, a common and very efficient implementation of Set, here:
- * https://www.w3schools.com/java/java_hashset.asp
+ * You can find more information about HashSet, a common and very efficient implementation of Set, by searching online.
  */
 public class Lab {
     /**
